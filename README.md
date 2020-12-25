@@ -61,7 +61,5 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 
 
 
-
-
 ## Extra
 As a test of my visualization ability, I also contracted the below Choropleth map that shows the Global Case Count of COVID19
