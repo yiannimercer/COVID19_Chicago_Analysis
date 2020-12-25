@@ -2,4 +2,5 @@
 * [Link to Chicago COVID Cases from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_cases.html)
 * [Link to Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_deaths.html)
 * [Link to Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)
+* [Link to Chicago COVID Mortality Rate from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_mortality_rate.html)
 * [Link to Worldwide COVID Cases from 1/22/2020 to 11/15/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/world_covid.html)
