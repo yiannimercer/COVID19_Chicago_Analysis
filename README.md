@@ -31,7 +31,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 * From this project, one can learn the drastic effects a disease like this will have on different groups of citizens of a city.  As you can below, the Bedford Park neighborhood of Chicago (ZIP: 60629) has the highest number of COVID cases as of 12/23/2020, with 13166 cases, however a much more centralized area of the city (ZIP: 60603) has the smallest number of COVID cases with only 46 cases.  I attribute this to the fact the former has a much less dense population and fewer amount of livable space (homes) in the area.
 * Additionally, please feel free to look through the below visualizations I created and draw your own insights!
 
-[covid_cases_age.png]
+!(covid_cases_age.png)
 
 
 
