@@ -21,7 +21,25 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 ## Methods of Analyzation
 
 * Various graphs were constructed using matplotlib.pyplot, seaborn, and folium.  The most interesting visualization (linked below) highlights each ZIP Code of Chicago and what the total amount of cases were in that area as of December 23rd, 2020.
-   * <!DOCTYPE html>
+
+* Additionally the data required some minor cleaning such as extracting the coordinates of each ZIP Code from a single column.
+* Feature Engineering was performed to highlight the Death Rate of Positive COVID cases (# of Deaths over # of Cases in a single day)
+    * The average case-fatality ratio according to John Hopkins University is 1.8% for the United States, which is fairly close to our calculated value of about 2.8%
+    * This new feature plotted against the Date column to see the rise and eventual fall of the COVID19 Mortality Rate in Chicago.
+
+## Conclusion & Insights
+* From this project, one can learn the drastic effects a disease like this will have on different groups of citizens of a city.  As you can below, the Bedford Park neighborhood of Chicago (ZIP: 60629) has the highest number of COVID cases as of 12/23/2020, with 13166 cases, however a much more centralized area of the city (ZIP: 60603) has the smallest number of COVID cases with only 46 cases.  I attribute this to the fact the former has a much less dense population and fewer amount of livable space (homes) in the area.
+* Additionally, please feel free to look through the below visualizations I created and draw your own insights!
+
+
+
+
+
+
+
+## Extra
+As a test of my visualization ability, I also contracted the below Choropleth map that shows the Global Case Count of COVID19
+
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     
@@ -1182,24 +1200,3 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 
         circle_marker_1390dff9214a4b21ba074bb311831569.bindPopup(popup_f2c508b47b2342b796172573ca263c5d)
         ;
-
-        
-    
-</script>
-* Additionally the data required some minor cleaning such as extracting the coordinates of each ZIP Code from a single column.
-* Feature Engineering was performed to highlight the Death Rate of Positive COVID cases (# of Deaths over # of Cases in a single day)
-    * The average case-fatality ratio according to John Hopkins University is 1.8% for the United States, which is fairly close to our calculated value of about 2.8%
-    * This new feature plotted against the Date column to see the rise and eventual fall of the COVID19 Mortality Rate in Chicago.
-
-## Conclusion & Insights
-* From this project, one can learn the drastic effects a disease like this will have on different groups of citizens of a city.  As you can below, the Bedford Park neighborhood of Chicago (ZIP: 60629) has the highest number of COVID cases as of 12/23/2020, with 13166 cases, however a much more centralized area of the city (ZIP: 60603) has the smallest number of COVID cases with only 46 cases.  I attribute this to the fact the former has a much less dense population and fewer amount of livable space (homes) in the area.
-* Additionally, please feel free to look through the below visualizations I created and draw your own insights!
-
-
-
-
-
-
-
-## Extra
-As a test of my visualization ability, I also contracted the below Choropleth map that shows the Global Case Count of COVID19
