@@ -36,25 +36,25 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 
 * Additionally, please feel free to look through the below visualizations I created and draw your own insights!
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_cases_age.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_cases_age.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_cases_ethnicity.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_cases_ethnicity.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_cases_gender.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_cases_gender.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_death_age.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_death_age.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_death_ethnicity.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_death_ethnicity.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_deaths_gender.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_deaths_gender.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_hospital_age.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_hospital_age.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_hospital_age.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_hospital_age.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_hospital_ethnicity.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_hospital_ethnicity.png)  
 
-![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/covid_hospital_gender.png)  
+![alt text](https://github.com/yiannimercer/COVID19_Chicago_Analysis/blob/main/images/covid_hospital_gender.png)  
 
 
 ## Extra
