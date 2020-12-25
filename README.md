@@ -53,7 +53,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 
 
 
-
+![alt text](https://yiannimercer.github.io/COVID19_Chicago_Analysis/docs/covid_cases.html)
 
 
 
