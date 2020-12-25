@@ -1,4 +1,4 @@
-# An Explanatory Analysis of COVID-19 Focusing on the City of Chicago
+# An Exploratory Analysis of COVID-19 Focusing on the City of Chicago
 
 ## Overview
 This project aims to analyze COVID-19's affect on the City of Chicago through different categories of citizens, such as age groups, gender (if-applicable), and race/ethnicity.  A project of this type can be used to study how a global pandemic affects the groups of citizens of a city like Chicago and if something similar were to happen, we can be better prepared to combat the deadly virus against our most at risk citizens.
@@ -23,7 +23,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 * Various graphs were constructed using matplotlib.pyplot, seaborn, and folium.  The most interesting visualizations (links below) that highlights each ZIP Code of Chicago and what the total amount of cases were in that area as of December 23rd, 2020.
    * [Chicago COVID Cases from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_cases.html)  
    * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_deaths.html)  
-   * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)  
+   * [Chicago COVID Hospitalizations from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)  
    * [COVID Mortality Rate from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_mortality_rate.html)
       
 * Additionally the data required some minor cleaning such as extracting the coordinates of each ZIP Code from a single column.
