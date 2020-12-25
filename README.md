@@ -33,7 +33,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 ## Conclusion & Insights
 As we already know, there are countless ways the novel Coronavirus has affected the different groups of citizens of a city, however I hope this project has offered some insight as to what groups of individuals have experienced the worst of it.  
 
-As you can from the linked graph below, the Bedford Park neighborhood of Chicago (ZIP: 60629) has the highest number of COVID cases as of 12/23/2020, with 13166 cases, however a much more centralized area of the city (ZIP: 60603) has the smallest number of COVID cases with only 46 cases.  I attribute this to the fact the former has a much less dense population and fewer amount of livable space (homes) in the area.
+As you can see from the linked graph below, the Bedford Park neighborhood of Chicago (ZIP: 60629) has the highest number of COVID cases as of 12/23/2020, with 13166 cases, however a much more centralized area of the city (ZIP: 60603) has the smallest number of COVID cases with only 46 cases.  I attribute this to the fact the former has a much less dense population and fewer amount of livable space (homes) in the area.
    *  [Chicago COVID Cases Map by ZIP Code](https://yiannimercer.github.io/COVID19_Chicago_Analysis/chicago_covid_map.html)
 
 * Additionally, please feel free to look through the below visualizations I created and draw your own insights!
@@ -66,6 +66,6 @@ While slightly more individuals who identify as male test positive, a noticeable
 
 
 ## Extra
-As a test of my visualization ability, I also contracted the below Choropleth map that shows the Global Case Count of COVID19
+As a test of my visualization ability, I also developed the below Choropleth map that shows the Global Case Count of COVID19 (data from 1/22/2020 to 11/15/2020)
 
 [COVID-19 World Map](https://yiannimercer.github.io/COVID19_Chicago_Analysis/world_covid.html)
