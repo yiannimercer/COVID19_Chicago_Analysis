@@ -15,7 +15,7 @@ import datetime as dt #Date column
 import plotly.express as px #interactive graphs
 import plotly.io as pio #changing the below features
 pio.renderers.default='browser' # interactive graphs in plotly.express
-pio.renderers.default = "svg" #load in spyder
+#pio.renderers.default = "svg" #load in spyder
 import geopandas as gpd
 import folium #Map
 
