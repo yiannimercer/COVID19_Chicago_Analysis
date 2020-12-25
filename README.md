@@ -21,9 +21,10 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 ## Methods of Analyzation
 
 * Various graphs were constructed using matplotlib.pyplot, seaborn, and folium.  The most interesting visualizations (links below) that highlights each ZIP Code of Chicago and what the total amount of cases were in that area as of December 23rd, 2020.
-      * [Chicago COVID Cases from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_cases.html)
-      * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_deaths.html)
-      * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)
+      * [Chicago COVID Cases from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_cases.html)  
+      * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_deaths.html)  
+      * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)  
+      
 * Additionally the data required some minor cleaning such as extracting the coordinates of each ZIP Code from a single column.
 * Feature Engineering was performed to highlight the Death Rate of Positive COVID cases (# of Deaths over # of Cases in a single day)
     * The average case-fatality ratio according to John Hopkins University is 1.8% for the United States, which is fairly close to our calculated value of about 2.8%
