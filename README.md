@@ -22,7 +22,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 
 * Various graphs were constructed using matplotlib.pyplot, seaborn, and folium.  The most interesting visualizations (links below) that highlights each ZIP Code of Chicago and what the total amount of cases were in that area as of December 23rd, 2020.
    * [Chicago COVID Cases from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_cases.html)  
-   * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_deaths.html)  
+   * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_death.html)  
    * [Chicago COVID Hospitalizations from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)  
    * [COVID Mortality Rate from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_mortality_rate.html)
       
