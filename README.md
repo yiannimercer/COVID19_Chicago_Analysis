@@ -24,6 +24,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
    * [Chicago COVID Cases from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_cases.html)  
    * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_deaths.html)  
    * [Chicago COVID Deaths from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_hospitalization.html)  
+   * [COVID Mortality Rate from 3/1/2020 to 12/23/2020](https://yiannimercer.github.io/COVID19_Chicago_Analysis/covid_mortality_rate.html)
       
 * Additionally the data required some minor cleaning such as extracting the coordinates of each ZIP Code from a single column.
 * Feature Engineering was performed to highlight the Death Rate of Positive COVID cases (# of Deaths over # of Cases in a single day)
